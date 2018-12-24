@@ -85,7 +85,7 @@ section.experience{
 section.experience h1{
   font-size: 4rem;
   font-weight: 600;
-  padding-bottom: 1rem;
+  padding-bottom: 4rem;
 }
 
 section.experience p{
@@ -93,6 +93,7 @@ section.experience p{
   padding-bottom: 1rem;
   text-align: center;
   font-weight: bold;
+  font-size: 3rem;
 }
 
 section.experience p2{
