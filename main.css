@@ -45,7 +45,7 @@ section.jumbotron{
     height: 80vh;
     padding-top: 20rem;
     padding-bottom: 40rem;
-    background-image: url(./Images/header-2.png);
+    background-image: url(./Images/header-1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 25%;
@@ -78,7 +78,7 @@ section.about p{
 section.experience{
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #8e545f;
+  background-color: #5d4be0;
   color: #fffefd;
 }
 
@@ -138,7 +138,7 @@ section.meeting li{
 section.footer{
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #303030;
+  background-color: #5d4be0;
   text-align: center;
 }
 
