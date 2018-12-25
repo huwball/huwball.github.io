@@ -53,6 +53,13 @@ section.jumbotron{
     background-position: 0% 25%;
 }
 
+section.jumbotron img{
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 section.jumbotron h1{
   font-size: 10rem;
   font-weight: 900;
