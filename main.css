@@ -193,32 +193,32 @@ section.footer h2{
   color: white;
 }
 
-a:link {
+section.footer a:link {
     color: white;
 }
-a:visited {
+section.footer a:visited {
     color: white;
 }
-a:hover {
+section.footer a:hover {
     color: white;
 }
-a:active {
+section.footer a:active {
     color: white;
 }
 
-a:link {
+section.footer a:link {
     text-decoration: none;
 }
 
-a:visited {
+section.footer a:visited {
     text-decoration: none;
 }
 
-a:hover {
+section.footer a:hover {
     text-decoration: underline;
 }
 
-a:active {
+section.footer a:active {
     text-decoration: underline;
 }
 
