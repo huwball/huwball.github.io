@@ -154,22 +154,31 @@ section.footer{
 
 section.footer h1{
   color: white;
-  font-size: 4rem;
+  font-size: 2.5rem;
   font-weight: 600;
-  padding-bottom: 3rem;
+  padding-top: 3.5rem;
   text-align: center;
 }
 
 section.footer i{
-  font-size: 4rem;
+  font-size: 5rem;
   color: white;
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
 section.footer p{
+  font-size: 2.25rem;
   padding-top: .5rem;
   padding-bottom: .5rem;
+  color: white;
+}
+
+section.footer h2{
+  font-size: 4.5rem;
+  font-weight: 600;
+  padding-top: .5rem;
+  padding-bottom: 3rem;
   color: white;
 }
 
