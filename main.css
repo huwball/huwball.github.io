@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800');
+
 html{
   font-size: 62.5%;
 }
@@ -139,7 +141,7 @@ section.meeting li{
 section.footer{
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #5d4be0;
+  background-color: #303030;
   text-align: center;
 }
 
