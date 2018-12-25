@@ -95,7 +95,7 @@ section.experience p{
   padding-bottom: 1rem;
   text-align: center;
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 section.experience p2{
@@ -104,7 +104,7 @@ section.experience p2{
 }
 
 section.experience i{
-  font-size: 10rem;
+  font-size: 8rem;
   color: white;
   padding-left: 3rem;
   padding-right: 3rem;
@@ -248,9 +248,9 @@ a:active {
   content: '';
   position: absolute;
   top: 24px;
-  right: -6px;
-  width: 10px;
-  height: 10px;
+  right: -8.5px;
+  width: 15px;
+  height: 15px;
   background: #5d4be0;
   border-radius: 50%;
   box-shadow: 0 0 0 3px rgba(93,75,224,0.2);
@@ -260,9 +260,9 @@ a:active {
   content: '';
   position: absolute;
   top: 24px;
-  left: -4px;
-  width: 10px;
-  height: 10px;
+  left: -6.5px;
+  width: 15px;
+  height: 15px;
   background: rgba(93,75,224,1);
   border-radius: 50%;
   box-shadow: 0 0 0 3px rgba(93,75,224,0.2);
