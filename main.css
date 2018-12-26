@@ -388,4 +388,11 @@ section.footer a:active {
       font-size: 1.5rem;
       padding-left: .9rem;
     }
+    .timeline{
+      width: 100%;
+    }
+    .timeline h1{
+      text-align: center;
+      font-size: 60px;
+    }
   }
