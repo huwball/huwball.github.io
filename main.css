@@ -221,13 +221,20 @@ section.footer a:hover {
 section.footer a:active {
     text-decoration: underline;
 }
+section.history h1{
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  padding-top: 4rem;
+  padding-bottom: 0;
+}
 
 /*** timeline css ***/
 
 .timeline{
   position: relative;
   margin: 50px auto;
-  padding: 40px 0;
+  padding: 0px 0;
   width: 1000px;
   box-sizing: border-box;
 }
@@ -388,11 +395,38 @@ section.footer a:active {
       font-size: 1.5rem;
       padding-left: .9rem;
     }
+
+    /*** timeline responsiveness***/
+
     .timeline{
       width: 100%;
+      padding-bottom: 0;
     }
-    .timeline h1{
+    section.history h1{
       text-align: center;
-      font-size: 60px;
+      font-size: 3rem;
+      font-weight: 600;
+      padding-top: 4rem;
+    }
+    .timeline:before{
+      left: 20px;
+    }
+    .timeline ul li:nth-child(even),
+    .timeline ul li:nth-child(odd){
+      width: 100%;
+      text-align: left;
+      padding-left: 50px;
+      padding-bottom: 50px;
+    }
+    .timeline ul li:nth-child(even):before,
+    .timeline ul li:nth-child(odd):before{
+      top: -18px;
+      left: 14px;
+    }
+    .timeline ul li:nth-child(even) .time,
+    .timeline ul li:nth-child(odd) .time{
+      top: -34px;
+      left: 50px;
+      right: inherit;
     }
   }
