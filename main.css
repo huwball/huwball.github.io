@@ -352,6 +352,12 @@ section.history h1{
     section.jumbotron h1{
       font-size: 4rem;
     }
+    section.jumbotron img{
+      width:100%
+    }
+    section.jumbotron p{
+      font-size: 2rem;
+    }
     section.about h1{
       font-size: 3rem;
     }
