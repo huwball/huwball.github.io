@@ -108,7 +108,7 @@ section.experience h1{
   padding-bottom: 4rem;
 }
 
-section.experience p{
+section.experience h2{
   padding-top: .5rem;
   padding-bottom: 1rem;
   text-align: center;
@@ -116,9 +116,9 @@ section.experience p{
   font-size: 2.5rem;
 }
 
-section.experience p2{
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+section.experience p{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 section.experience i{
