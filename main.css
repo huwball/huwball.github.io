@@ -316,16 +316,14 @@ section.history h1{
 }
 
 /*** moves date and adds background around date ****/
-.timeline ul li .time h4
-{
+.timeline ul li .time h4 {
   margin: 0;
   padding: 0;
   font-size: 25px;
   font-weight: 700;
 }
 
-.timeline ul li:nth-child(odd) .time
-{
+.timeline ul li:nth-child(odd) .time {
   position: absolute;
   top: 12px;
   right: -210px;
@@ -336,8 +334,7 @@ section.history h1{
   border-radius: 22px;
 }
 
-.timeline ul li:nth-child(even) .time
-{
+.timeline ul li:nth-child(even) .time {
   position: absolute;
   top: 12px;
   left: -210px;
