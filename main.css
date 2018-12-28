@@ -401,7 +401,7 @@ section.history h1{
 
     /*** timeline responsiveness***/
 
-    .timeline{
+    section.history.timeline{
       width: 100%;
       padding-bottom: 0;
     }
@@ -411,23 +411,23 @@ section.history h1{
       font-weight: 600;
       padding-top: 4rem;
     }
-    .timeline:before{
+    section.history.timeline:before{
       left: 20px;
     }
-    .timeline ul li:nth-child(even),
-    .timeline ul li:nth-child(odd){
+    section.history.timeline ul li:nth-child(even),
+    section.history.timeline ul li:nth-child(odd){
       width: 100%;
       text-align: left;
       padding-left: 50px;
       padding-bottom: 50px;
     }
-    .timeline ul li:nth-child(even):before,
-    .timeline ul li:nth-child(odd):before{
+    section.history.timeline ul li:nth-child(even):before,
+    section.history.timeline ul li:nth-child(odd):before{
       top: -18px;
       left: 14px;
     }
-    .timeline ul li:nth-child(even) .time,
-    .timeline ul li:nth-child(odd) .time{
+    section.history.timeline ul li:nth-child(even) .time,
+    section.history.timeline ul li:nth-child(odd) .time{
       top: -34px;
       left: 50px;
       right: inherit;
