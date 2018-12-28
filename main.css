@@ -60,9 +60,14 @@ section.jumbotron img{
   margin-right: auto;
 }
 
-section.jumbotron a{
-  text-decoration: none;
+section.jumbotron button{
+  border-radius: 24px;
+  background-color: #fffefd;
   color: #5d4be0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
 }
 
 section.jumbotron p{
@@ -70,10 +75,8 @@ section.jumbotron p{
   padding-bottom: .5rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  background: white;
-  border-radius: 2rem;
   font-size: 2.35rem;
-  font-weight: 700;
+  font-weight: 800;
   text-align: center;
 }
 
@@ -91,7 +94,7 @@ section.about h1{
 
 section.about p{
   padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-bottom: 2rem;
 }
 
 section.experience{
@@ -352,7 +355,7 @@ section.history h1{
       width:100%
     }
     section.jumbotron p{
-      font-size: 2rem;
+      font-size: 1.75rem;
       text-align: center;
     }
     section.about h1{
