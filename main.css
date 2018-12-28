@@ -344,10 +344,7 @@ section.history h1{
   border-radius: 22px;
 }
 
-@media
-screen and (max-width: 60rem)
-and (orientation:landscape)
-{
+@media screen and (max-width: 60rem){
     section.jumbotron h1{
       font-size: 4rem;
     }
