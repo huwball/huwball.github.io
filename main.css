@@ -76,6 +76,11 @@ section.about p{
   padding-bottom: 2rem;
 }
 
+section.about img{
+  max-width: 70%;
+  height: auto;
+}
+
 section.experience{
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -140,6 +145,10 @@ section.meeting li{
 section.footer{
   padding-top: 8rem;
   padding-bottom: 8rem;
+  background-image: url(./Images/header-4.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
   background-color: #303030;
   text-align: center;
 }
